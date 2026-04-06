@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: yuque
+  icon: "fas fa-book"
+  url: "https://www.yuque.com/marigold__"
 
 - type: email
   icon: "fas fa-envelope"
